@@ -219,11 +219,6 @@ docker login
 docker tag nikilteja215/webserver:latest nikilteja215/webserver:latest
 docker push nikilteja215/webserver:latest
 ```
-🔹 *Tags and uploads your image to DockerHub.*
-
-🔗 [https://hub.docker.com/r/nikilteja215/webserver](https://hub.docker.com/r/nikilteja215/webserver)
-
----
 
 ## 🔧 Troubleshooting Done
 
@@ -237,7 +232,7 @@ docker push nikilteja215/webserver:latest
 ## 🔗 Links
 
 - **GitHub Repo:** [https://github.com/nikilteja215/word-count-spark/tree/main](https://github.com/nikilteja215/word-count-spark/tree/main)
-- **DockerHub Repo:** [https://hub.docker.com/r/nikilteja215/webserver](https://hub.docker.com/r/nikilteja215/webserver)
+- **DockerHub Repo:** [https://hub.docker.com/repository/docker/nikilteja215/webserver/general](https://hub.docker.com/repository/docker/nikilteja215/webserver/general)
 - **Web App (EC2):** http://3.237.83.253
 
 ---
