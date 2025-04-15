@@ -236,7 +236,7 @@ docker push nikilteja215/webserver:latest
 
 ## 🔗 Links
 
-- **GitHub Repo:** [https://github.com/nikilteja215/word-count-spark](https://github.com/nikilteja215/word-count-spark)
+- **GitHub Repo:** [https://github.com/nikilteja215/word-count-spark/tree/main](https://github.com/nikilteja215/word-count-spark/tree/main)]
 - **DockerHub Repo:** [https://hub.docker.com/r/nikilteja215/webserver](https://hub.docker.com/r/nikilteja215/webserver)
 - **Web App (EC2):** http://3.237.83.253
 
